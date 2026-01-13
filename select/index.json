@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "お気に召すまま",
+  "base_artist": "ワンダーランズ×ショウタイム",
+  "createdAt": "2026-01-13T11:43:46.019484Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "お気に召すまま",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/01_お気に召すまま_Eve.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "お気に召すまま",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": false,
+      "path": "select/pl_01_お気に召すまま_ワンダーランズ×ショウタイム.txt"
+    }
+  ]
+}
