@@ -1,24 +1,16 @@
 {
   "version": 1,
-  "base_track": "お気に召すまま",
+  "base_track": "お気に召すまま（feat. 天馬司&鳳えむ&草薙寧々&神代類&鏡音レン）",
   "base_artist": "ワンダーランズ×ショウタイム",
-  "createdAt": "2026-01-13T11:43:46.019484Z",
+  "createdAt": "2026-02-19T18:06:48.194600Z",
   "candidates": [
-    {
-      "id": "lrclib_1",
-      "source": "lrclib",
-      "title": "お気に召すまま",
-      "artist": "Eve",
-      "has_synced": true,
-      "path": "select/01_お気に召すまま_Eve.lrc"
-    },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "お気に召すまま",
+      "title": "お気に召すまま (feat. 天馬司&鳳えむ&草薙寧々&神代類&鏡音レン)",
       "artist": "ワンダーランズ×ショウタイム",
       "has_synced": false,
-      "path": "select/pl_01_お気に召すまま_ワンダーランズ×ショウタイム.txt"
+      "path": "select/pl_01_お気に召すまま_(feat._天馬司&鳳えむ&草薙寧々&神代類&鏡音レン)_ワンダーランズ×ショウタイム.txt"
     }
   ]
 }
